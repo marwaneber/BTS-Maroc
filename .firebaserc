@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "hosting": "bts-maroc-beta",
+    "hosting,functions": "bts-maroc-beta"
+  }
+}
